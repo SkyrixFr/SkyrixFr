@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkyrixFr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning the programming language C.
+- 🌱 I’m currently learning the programming language C++.
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me email address : skyrix.dev@gmail.com
 
