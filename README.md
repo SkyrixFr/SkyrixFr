@@ -5,6 +5,7 @@
 - 🌐 My website : https://skyrix.fr/
 
 # My stats:
+![](https://komarev.com/ghpvc/?username=SkyrixFr&style=for-the-badge&color=orange)
 
 [![SkyrixFr's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyrixFr&count_private=true&theme=onedark&show_icons=true)](https://skyrix.fr/)
 
