@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SkyrixFr
-- 🌱 I’m currently \*trying\* to learn C++.
+- 🌱 I’m currently learning Rust 🦀
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me email address : [contact@skyrix.fr](mailto:contact@skyrix.fr)
 - 🌐 My website : https://skyrix.fr/
